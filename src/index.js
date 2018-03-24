@@ -1,3 +1,4 @@
+// Stopping Point: Replace the whole Square class with this function:
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
